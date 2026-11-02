@@ -20,6 +20,6 @@
     "typescript": "^5.9.3"
   },
   "devDependencies": {
-    "@types/bun": "1.4.1"
+    "@types/bun": "1.4.4"
   }
 }
